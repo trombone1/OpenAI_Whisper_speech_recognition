@@ -1,1 +1,1 @@
-# AI-class-in-NSSH
+# AI-course-in-NSSH
